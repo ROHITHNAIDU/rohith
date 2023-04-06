@@ -1,2 +1,2 @@
-# rohith
-My simple website
+
+My simple website - https://rohithnaidu.github.io/rohith/
